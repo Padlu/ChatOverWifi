@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatOverWifi</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="available_devices">Available Devices</string>
+    <string name="available_groups">Groups</string>
+    <string name="syncing">Syncing</string>
+    <string name="connected">Connected</string>
+    <string name="app_status">Status</string>
+</resources>
